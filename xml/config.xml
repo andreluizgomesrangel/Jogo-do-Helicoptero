@@ -1,0 +1,7 @@
+<aplicacao>
+	<arquivosDeEntrada>
+		<arquivoDaArena nome="arena" tipo="svg" caminho="./"></arquivoDaArena>
+	</arquivosDeEntrada>
+	<helicoptero velTiro="0.5" velHelicoptero="0.07" tempoDeVoo="35"></helicoptero>
+	<helicopteroInimigo freqTiro="0.01" velHelicoptero="0.05"></helicopteroInimigo>
+</aplicacao>
